@@ -1,0 +1,11 @@
+C:\Users\Whitney\source\repos\URLify\URLify\obj\Debug\netcoreapp2.2\URLify.csprojAssemblyReference.cache
+C:\Users\Whitney\source\repos\URLify\URLify\obj\Debug\netcoreapp2.2\URLify.csproj.CoreCompileInputs.cache
+C:\Users\Whitney\source\repos\URLify\URLify\obj\Debug\netcoreapp2.2\URLify.AssemblyInfoInputs.cache
+C:\Users\Whitney\source\repos\URLify\URLify\obj\Debug\netcoreapp2.2\URLify.AssemblyInfo.cs
+C:\Users\Whitney\source\repos\URLify\URLify\bin\Debug\netcoreapp2.2\URLify.deps.json
+C:\Users\Whitney\source\repos\URLify\URLify\bin\Debug\netcoreapp2.2\URLify.runtimeconfig.json
+C:\Users\Whitney\source\repos\URLify\URLify\bin\Debug\netcoreapp2.2\URLify.runtimeconfig.dev.json
+C:\Users\Whitney\source\repos\URLify\URLify\bin\Debug\netcoreapp2.2\URLify.dll
+C:\Users\Whitney\source\repos\URLify\URLify\bin\Debug\netcoreapp2.2\URLify.pdb
+C:\Users\Whitney\source\repos\URLify\URLify\obj\Debug\netcoreapp2.2\URLify.dll
+C:\Users\Whitney\source\repos\URLify\URLify\obj\Debug\netcoreapp2.2\URLify.pdb

@@ -1,0 +1,11 @@
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.deps.json
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.runtimeconfig.json
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.runtimeconfig.dev.json
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.dll
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.pdb
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.AssemblyInfo.cs
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.dll
+C:\Users\Whitney\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.pdb

@@ -1,0 +1,12 @@
+C:\Users\Whitney\source\repos\AppleStocks\bin\Debug\netcoreapp2.2\AppleStocks.deps.json
+C:\Users\Whitney\source\repos\AppleStocks\bin\Debug\netcoreapp2.2\AppleStocks.runtimeconfig.json
+C:\Users\Whitney\source\repos\AppleStocks\bin\Debug\netcoreapp2.2\AppleStocks.runtimeconfig.dev.json
+C:\Users\Whitney\source\repos\AppleStocks\bin\Debug\netcoreapp2.2\AppleStocks.dll
+C:\Users\Whitney\source\repos\AppleStocks\bin\Debug\netcoreapp2.2\AppleStocks.pdb
+C:\Users\Whitney\source\repos\AppleStocks\obj\Debug\netcoreapp2.2\AppleStocks.csprojAssemblyReference.cache
+C:\Users\Whitney\source\repos\AppleStocks\obj\Debug\netcoreapp2.2\AppleStocks.csproj.CoreCompileInputs.cache
+C:\Users\Whitney\source\repos\AppleStocks\obj\Debug\netcoreapp2.2\AppleStocks.AssemblyInfoInputs.cache
+C:\Users\Whitney\source\repos\AppleStocks\obj\Debug\netcoreapp2.2\AppleStocks.AssemblyInfo.cs
+C:\Users\Whitney\source\repos\AppleStocks\obj\Debug\netcoreapp2.2\AppleStocks.dll
+C:\Users\Whitney\source\repos\AppleStocks\obj\Debug\netcoreapp2.2\AppleStocks.pdb
+C:\Users\Whitney\source\repos\AppleStocks\bin\Debug\netcoreapp2.2\notes.txt

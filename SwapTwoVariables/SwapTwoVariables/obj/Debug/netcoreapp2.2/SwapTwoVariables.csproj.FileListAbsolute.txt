@@ -1,0 +1,11 @@
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\bin\Debug\netcoreapp2.2\SwapTwoVariables.deps.json
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\bin\Debug\netcoreapp2.2\SwapTwoVariables.runtimeconfig.json
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\bin\Debug\netcoreapp2.2\SwapTwoVariables.runtimeconfig.dev.json
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\bin\Debug\netcoreapp2.2\SwapTwoVariables.dll
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\bin\Debug\netcoreapp2.2\SwapTwoVariables.pdb
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\obj\Debug\netcoreapp2.2\SwapTwoVariables.csprojAssemblyReference.cache
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\obj\Debug\netcoreapp2.2\SwapTwoVariables.csproj.CoreCompileInputs.cache
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\obj\Debug\netcoreapp2.2\SwapTwoVariables.AssemblyInfoInputs.cache
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\obj\Debug\netcoreapp2.2\SwapTwoVariables.AssemblyInfo.cs
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\obj\Debug\netcoreapp2.2\SwapTwoVariables.dll
+C:\Users\Whitney\source\repos\SwapTwoVariables\SwapTwoVariables\obj\Debug\netcoreapp2.2\SwapTwoVariables.pdb
